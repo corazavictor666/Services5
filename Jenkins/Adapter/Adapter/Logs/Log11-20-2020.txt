@@ -1,0 +1,8 @@
+
+[11/20/2020 10:45:35 AM]: Start Lightstreamer Adapter
+[11/20/2020 10:45:35 AM]: Trying to connect to LightStreamer server ( 127.0.0.1:6663|6662 )
+[11/20/2020 10:45:36 AM]: Impossible to connect to Lightstreamer server( 127.0.0.1 )
+[11/20/2020 10:45:36 AM]: Make sure Lightstreamer server is started before this Adapter.
+[11/20/2020 10:45:36 AM]: No connection could be made because the target machine actively refused it 127.0.0.1:6663
+[11/20/2020 10:45:36 AM]: 
+ Retrying... 
